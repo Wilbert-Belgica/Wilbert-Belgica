@@ -2,11 +2,7 @@
 
 <h2>👨‍💻 Python Projects :</h2>
 
-  - [Active Directory Home Lab](https://github.com/URL)
-  - [Hello, World!](https://github.com/URL)
-
-<h2>📺 YouTube Videos</h2>
-
+  - [100 Days of Code](https://github.com/URL)
 
 <h2> 🤳 Connect with me:</h2>
 
