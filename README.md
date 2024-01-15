@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Python Projects :</h2>
 
-  - [100 Days of Code]([https://github.com/URL](https://github.com/Wilbert-CyberSec/100-Days-of-Code.git))
+  - [100 Days of Code](https://github.com/Wilbert-CyberSec/100-Days-of-Code.git)
 
 <h2> 🤳 Connect with me:</h2>
 
