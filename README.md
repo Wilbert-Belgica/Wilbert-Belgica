@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 100 Days of Code :</h2>
 
-  - [Easy Password Generator](https://github.com/Wilbert-CyberSec/100-Days-of-Code.git)
+  - [Password Generator](https://github.com/Wilbert-CyberSec/100-Days-of-Code.git)
   - [BMI Calculator](https://github.com/Wilbert-Belgica/BMI-Calculator.git)
   - [Tip Calculator]()
 
