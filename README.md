@@ -4,6 +4,7 @@
 <h2>👨‍💻 100 Days of Code :</h2>
 
   - [Easy Password Generator](https://github.com/Wilbert-CyberSec/100-Days-of-Code.git)
+  - [BMI Calculator]()
 
 <h2> 🤳 Connect with me:</h2>
 
