@@ -1,6 +1,5 @@
-<h1>Hi, I'm Wilbert! 
-
-# Programmer/Cybersecurity Analyst
+<h1> Hi, I'm Wilbert! 
+<h3> Programmer / Cybersecurity Analyst
 
 <h2>👨‍💻 100 Days of Code :</h2>
 
