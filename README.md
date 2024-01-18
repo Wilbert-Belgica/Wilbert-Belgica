@@ -6,6 +6,7 @@
   - [Password Generator](https://github.com/Wilbert-CyberSec/100-Days-of-Code.git)
   - [BMI Calculator](https://github.com/Wilbert-Belgica/BMI-Calculator.git)
   - [Tip Calculator](https://github.com/Wilbert-Belgica/Tip-Calculator.git)
+  - [Pizza Order Taker]()
 
 <h2> 🤳 Connect with me:</h2>
 
