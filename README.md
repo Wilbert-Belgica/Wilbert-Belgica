@@ -7,6 +7,7 @@
   - [BMI Calculator](https://github.com/Wilbert-Belgica/BMI-Calculator.git)
   - [Tip Calculator](https://github.com/Wilbert-Belgica/Tip-Calculator.git)
   - [Pizza Order Taker](https://github.com/Wilbert-Belgica/Pizza-Order-Taker.git)
+  - [Treasure Island Game](https://github.com/Wilbert-Belgica/Treasure-Island-Game.git)
 
 <h2> 🤳 Connect with me:</h2>
 
